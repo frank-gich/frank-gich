@@ -36,7 +36,7 @@ I'm a **Software Engineer** with hands-on experience in **full-stack development
 ### 📫 Let's Connect
 
 - 📧 Email: `youremail@example.com`
-- 💼 [LinkedIn](www.linkedin.com/in/francis-gichuhi-b0937422a)
+- 💼 [LinkedIn](www.linkedin.com/francis-gichuhi-b0937422a)
 - 🧑‍💻 [GitHub](https://github.com/frank-gich)
 
 ---
