@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Frank Gichuhi
+## 👋 Hi there! I'm Francis Gichuhi
 
 I'm a **Software Engineer** with hands-on experience in **full-stack development**, **mobile apps**, **DevOps**, and **server infrastructure**. I build robust, scalable applications using tools that solve real-world problems efficiently.
 
